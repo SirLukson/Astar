@@ -1,5 +1,5 @@
 # Astar
-# PL
+<title> PL
 Algorytm A* jest algorytmem przeszukującym graf w celu znalezienia najkrótszej trasy między punktem początkowym a końcowym z uwzględnieniem kosztu przejścia między poszczególnymi węzłami.
 Pliki txt. (1-28) zawierają rozpatrywane grafy, natomiast plik correct answers.txt zawiera prawidłowe odpowiedzi jakie algorytm powinien dać na wyjściu.
 # ENG
